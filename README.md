@@ -1,45 +1,58 @@
-# 2022-3a
-## 2022-3a
-### 2022-3a
-#### 2022-3a
-##### 2022-3a
-###### 2022-3a
+# 2022ForClass Howard
+## 2022ForClass Howard
+### 2022ForClass Howard
+#### 2022ForClass Howard
+##### 2022ForClass Howard
+###### 2022ForClass Howard
 
-😢
-![nkust](nkust.png "nkust")
+emphasis, aka *italics*, with asterisks or underscores.
+Straong emphasis, aka bold, with **asterisks** or **unserscores**.
+Combined emphasis with **asterisks and unserscores**.
+Strikethrough uses two tildes. ~~Scratch this~~.
 
+
+> 新北市
+>>板橋區
+>>中和區
+
+> 桃園縣
+>>大溪鎮
+>>龜山鄉
+
+* Red
+* Green
+* Blue
+
+1. Bird
+2. Mchale
+3. Parish
+
+
+😸😎
+[國立高雄科技大學](https://www.nkust.edu.tw/)
+![NKUST](nkust.png "nkust")
 - [ ] todo list
 - [x] done
 
-python code
-```
-s-"Python syntax highlighting"
+***
+
+```python
+s = " Python syntax highlighting "
 print s
 ```
+***
 
-javascript code
-```
-var s -"Javascript syntax highlighting";
-alert(s);
-```
-
-Emphasis, aka italics, with asterisks or underscores.
-
-Strong emphasis, aka bold, with asterisks or underscores.
-
-Combined emphasis with asterisks and underscores.
-
-Strikethrough uses two tildes. Scratch this.
-
+```js
+var s = " JavaScript syntax highlighting ";
+alert (s);
 ```
 
-1.First ordered list item
-2.Another item
-  ..*Unordered sub-list.
-3.Actual numbers don't matter, just that it's a number
-  ..1. Ordered sub-list
-  ...2.2nd
-4.And another item.
-  ...*note 1
-  ...*note 2
-  *** note 3
+| left | center | right |
+| :------------- | :--------------------: | ------------:|
+| col 3 is | right aligned | 1600 |
+| col 2 is | centered | 12 |
+| col 3 is | are neat | 1 |
+| test | 測試 | 3333 |
+
+[播放https://www.youtube.com/watch?v=sSm2dRarhPo](https://www.youtube.com/watch?v=sSm2dRarhPo)
+
